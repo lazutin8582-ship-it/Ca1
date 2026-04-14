@@ -6,7 +6,7 @@ public class Main {
         int water = 3000; // миллилитров воды
         int potatoes = 5; // картофелин
         int chicken = 6; // куриных бёдер
-        int spices = 9; // ложек специй
+        int spices = 10; // ложек специй
 
         System.out.println("Сварили суп. На одного человека вышло:");
         System.out.println((water / eaters) + " миллилитров(а) воды");
